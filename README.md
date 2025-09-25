@@ -1,6 +1,6 @@
 # Smart India Hackathon Workshop
 # Date:10.09.2025
-## Register Number:25025845
+## Register Number:25015845
 ## Name:Deenesh Raj G
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
@@ -85,5 +85,6 @@ Research and Reference
 📄 Customized Agricultural Advisory Services for Smallholder Farmers in India – Published by Precision Development (PxD), this report analyzes how mobile-based advisory systems help disadvantaged farmers improve productivity, cope with weather shocks, and adopt sustainable practices.
 🔗 Read the full article here
 Let me know if you'd like a summary or key insights from the report!
+
 
 
