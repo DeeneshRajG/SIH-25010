@@ -53,16 +53,16 @@ Agriculture, FoodTech & Rural Development
 <li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+Remove These Lines
+Analysis of the feasibility of the idea
+Potential challenges and risks
+Strategies for overcoming these challenges
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+Remove These Lines
+Potential impact on the target audience
+Benefits of the solution (social, economic, environmental, etc.
 
 ## Research and References
 <h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+Details / Links of the reference and research work
