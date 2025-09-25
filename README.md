@@ -83,8 +83,9 @@ The Smart Crop Advisory System for Small and Marginal Farmers, while highly prom
 Research and Reference
 
 📄 Customized Agricultural Advisory Services for Smallholder Farmers in India – Published by Precision Development (PxD), this report analyzes how mobile-based advisory systems help disadvantaged farmers improve productivity, cope with weather shocks, and adopt sustainable practices.
-🔗 Read the full article here
+https://precisiondev.org/wp-content/uploads/2025/03/Customized-Advisory-Services-in-India-PxD-March-2025.pdf
 Let me know if you'd like a summary or key insights from the report!
+
 
 
 
